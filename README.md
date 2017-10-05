@@ -1,0 +1,2 @@
+# magiquarkgh
+GitHub training exercises
